@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      "apache-md5@^1.0.6",
+      "/media/alex/92FC9DE0FC9DBEC3/books/[12-2019]advanced-css-and-sass/advanced-css-course-master/Natours/starter/node_modules/http-auth"
+    ]
+  ],
+  "_from": "apache-md5@>=1.0.6 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "apache-md5@1.1.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/apache-md5",
+  "_nodeVersion": "12.22.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/apache-md5_1.1.7_1624614266850_0.33432897230012215"
+  },
+  "_npmUser": {
+    "email": "gevorg.ha@gmail.com",
+    "name": "gevorg"
+  },
+  "_npmVersion": "6.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "apache-md5",
+    "raw": "apache-md5@^1.0.6",
+    "rawSpec": "^1.0.6",
+    "scope": null,
+    "spec": ">=1.0.6 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/http-auth"
+  ],
+  "_resolved": "https://registry.npmjs.org/apache-md5/-/apache-md5-1.1.7.tgz",
+  "_shasum": "dcef1802700cc231d60c5e08fd088f2f9b36375a",
+  "_shrinkwrap": null,
+  "_spec": "apache-md5@^1.0.6",
+  "_where": "/media/alex/92FC9DE0FC9DBEC3/books/[12-2019]advanced-css-and-sass/advanced-css-course-master/Natours/starter/node_modules/http-auth",
+  "author": {
+    "name": "Gevorg Harutyunyan",
+    "url": "http://github.com/gevorg"
+  },
+  "bugs": {
+    "url": "http://github.com/gevorg/apache-md5/issues"
+  },
+  "dependencies": {},
+  "description": "Node.js module for Apache style password encryption using md5.",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "mocha": "^7.0.1",
+    "prettier": "^1.19.1"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 5,
+    "integrity": "sha512-JtHjzZmJxtzfTSjsCyHgPR155HBe5WGyUyHTaEkfy46qhwCFKx1Epm6nAxgUG3WfUZP1dWhGqj9Z2NOBeZ+uBw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJg1aV7CRA9TVsSAnZWagAA02AP/2eMxiv3fGZvsJiCm0G+\nUVjO2JZ8AEbNaFdr3p2tim+k8zafko9Dzg9CR3ovlwz0NXiELzn95ianiX/P\nob+K/jJeV8J4JdACtHlnQMYtd5E1Kv/yam4cly3eZsffpGgjwqVmv2+EEhtK\nx1yu0p2+e7KF0T2QPlxiLn+nGWWFQWjdO+YfiSP++kJFYGWdYEQqs6lBldbj\nOI/GOK/EWWzfpxva8GI76t2UHNdzvxeAcy4HoEnoweMpYDxDrZXitscaFUdv\nTNc+gRI8ENNzlOQY/GiogmmVm/xoZ8q6yObMO3jgkIztFfBV5EM/pSc8rchS\ny9mRUgvC3e24xqp+kAsVdS/AXNNpXru8YVD+krqrsGH+jn93LK0+huRx9vyU\nDVPws/X+ScIwris21xsOkzYz1S5tjMNNNfN4NNJjjqMiEvb+iE7tzmeSUkQb\nWzfySJEXNsMs2J9NuTsQSFf4ovsyKkGxZCln7xvGeuy9MKogwz/IZgz60bN0\nK9XIPOsMSD9HbwC6B/GQJQq0tFwy0wg4YnKiMgr6MA5sruxDPrrgUrSyiUSM\no+JYDZbsBCovEr9xTsx+vz5GbkT0lsWLny93ELyRfJBdlnNh/+g/b5brkzlg\n+/RkiXkr/lvfHil12DjhUZRaVu5Tvq+DbeYfy0/wdpkjmLRh7vX92oBfPg1W\nqoik\r\n=xpmo\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "dcef1802700cc231d60c5e08fd088f2f9b36375a",
+    "tarball": "https://registry.npmjs.org/apache-md5/-/apache-md5-1.1.7.tgz",
+    "unpackedSize": 6243
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "gitHead": "4823b190d5eeeb3bf8f6a3336761e9fd21cd60d8",
+  "homepage": "http://github.com/gevorg/apache-md5",
+  "keywords": [
+    "apache",
+    "htpasswd",
+    "md5",
+    "password"
+  ],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/gevorg/apache-md5/blob/master/LICENSE"
+    }
+  ],
+  "main": "./src/index.js",
+  "maintainers": [
+    {
+      "name": "gevorg",
+      "email": "gevorg.ha@gmail.com"
+    }
+  ],
+  "name": "apache-md5",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gevorg/apache-md5.git"
+  },
+  "scripts": {
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "mocha"
+  },
+  "version": "1.1.7"
+}

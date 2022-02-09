@@ -1,0 +1,107 @@
+{
+  "_args": [
+    [
+      "apache-crypt@^1.1.2",
+      "/media/alex/92FC9DE0FC9DBEC3/books/[12-2019]advanced-css-and-sass/advanced-css-course-master/Natours/starter/node_modules/http-auth"
+    ]
+  ],
+  "_from": "apache-crypt@>=1.1.2 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "apache-crypt@1.2.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/apache-crypt",
+  "_nodeVersion": "12.22.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/apache-crypt_1.2.5_1624538909949_0.7051561180770791"
+  },
+  "_npmUser": {
+    "email": "gevorg.ha@gmail.com",
+    "name": "gevorg"
+  },
+  "_npmVersion": "6.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "apache-crypt",
+    "raw": "apache-crypt@^1.1.2",
+    "rawSpec": "^1.1.2",
+    "scope": null,
+    "spec": ">=1.1.2 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/http-auth"
+  ],
+  "_resolved": "https://registry.npmjs.org/apache-crypt/-/apache-crypt-1.2.5.tgz",
+  "_shasum": "4eb6b6dbaed2041ce5bc2d802f4421f5fdadc25e",
+  "_shrinkwrap": null,
+  "_spec": "apache-crypt@^1.1.2",
+  "_where": "/media/alex/92FC9DE0FC9DBEC3/books/[12-2019]advanced-css-and-sass/advanced-css-course-master/Natours/starter/node_modules/http-auth",
+  "author": {
+    "name": "Gevorg Harutyunyan",
+    "url": "http://github.com/gevorg"
+  },
+  "bugs": {
+    "url": "http://github.com/gevorg/apache-crypt/issues"
+  },
+  "dependencies": {
+    "unix-crypt-td-js": "^1.1.4"
+  },
+  "description": "Node.js module for Apache style password encryption using crypt(3).",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "mocha": "^7.0.1",
+    "prettier": "^1.19.1"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 4,
+    "integrity": "sha512-ICnYQH+DFVmw+S4Q0QY2XRXD8Ne8ewh8HgbuFH4K7022zCxgHM0Hz1xkRnUlEfAXNbwp1Cnhbedu60USIfDxvg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJg1H8eCRA9TVsSAnZWagAAnVEP/2B52UEAWLFKhxVaWYgs\nb7pf09dW/OFmp0wc7Wa7vNCCucT+lc9oIbn0H0QaJhno5Vx5Is599/jy4CBs\nj5tzGFOQpZ4mKrgfnJkf7ju9uwtBsff3/GV0WnBQkGyylWv+R6Buv1A/GKFS\nPnQtsE2KLdebxqBxIr+QB7OGl2XxLuTFcvwII97wfBIc4Rfe5lbyKOYGedCT\nUcFpLsNl1au/QhOBJ38l2H9G9KXxOiKBDWFAK0b9CFrxeOKqjubmK6gcVTtu\nNHXUA0wymh/HNTqp5OcH88KCCduqsGQubQuQrQ5D2QDNu1ggiIQR3kD7qW7k\n43EcPVsnQEFVpZsH+5gmNRhj9KVmtr9bASXAnhfWcMBvA4hkUMo5VGlmZsE6\n6k0jsNuXYnPvJHmoT+jCV5gfL/w0yx3xymg6kr02GsoDbYnmYurF2qGrP35c\nQ2VXn4Omp/QtvW+gdrIocK0OT+cX1cuFEWFE//06URNYInrdtpqup2hbtFfQ\nMn8iGHiEqgQ1QRrYB7AjVH3tprJCKLwzpXOFkBTC5k9n/fQjd0rjqbUEvwCU\n6+BOfPVpppijkv0ENpeOOvpkPJ0+njYjgoUUEZKRGH9isPqGWbfJEBQGdKb2\ntdGqftqT4J/0CMrMFKFVkg03g0RZmihsGXCya/dyKGr2Xw5e91EPiAQtwSfp\nCYrY\r\n=0/Hc\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "4eb6b6dbaed2041ce5bc2d802f4421f5fdadc25e",
+    "tarball": "https://registry.npmjs.org/apache-crypt/-/apache-crypt-1.2.5.tgz",
+    "unpackedSize": 3714
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "gitHead": "559cbbedf8633c9339ae06ef339fe24a15602ede",
+  "homepage": "http://github.com/gevorg/apache-crypt",
+  "keywords": [
+    "apache",
+    "crypt",
+    "htpasswd",
+    "password"
+  ],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/gevorg/apache-crypt/blob/master/LICENSE"
+    }
+  ],
+  "main": "./src/index.js",
+  "maintainers": [
+    {
+      "name": "gevorg",
+      "email": "gevorg.ha@gmail.com"
+    }
+  ],
+  "name": "apache-crypt",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gevorg/apache-crypt.git"
+  },
+  "scripts": {
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "mocha"
+  },
+  "version": "1.2.5"
+}
